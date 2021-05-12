@@ -1,0 +1,6 @@
+<ul>: or <ol>:
+Unordered List
+Only valid children are <li> (and <script> and <template>)
+
+ul : bullet points on default
+ol : numbered 1,2,3,..,n on default 

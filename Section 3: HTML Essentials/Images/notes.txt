@@ -1,0 +1,6 @@
+<img> no closing tag
+needs attribute src follows same pattern as href 
+
+can copy image address from online in src 
+
+alt attribute

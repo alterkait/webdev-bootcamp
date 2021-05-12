@@ -1,0 +1,8 @@
+1. Divs and Spans
+
+some elements are inline and others are blocks
+e.g. <p> is block, takes up a whole line when rendered
+e.g. <a> is inline, stays on single line 
+
+<div> : Division element 
+groups elements together, takes a block 

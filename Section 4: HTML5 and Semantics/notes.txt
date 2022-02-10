@@ -6,3 +6,5 @@ e.g. <a> is inline, stays on single line
 
 <div> : Division element 
 groups elements together, takes a block 
+
+<span> : generic element to wrap around inline elements 
